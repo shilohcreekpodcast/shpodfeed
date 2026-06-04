@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:podcast="https://podcastindex.org/namespace/1.0"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shiloh Creek</title>
+    <link>https://shilohcreekpod.fablepeak.com</link>
+    <atom:link href="https://shpodfeed.fablepeak.com/podcast.xml" rel="self" type="application/rss+xml"/>
+    <language>en</language>
+    <copyright>© 2026 Shiloh Creek</copyright>
+    <description><![CDATA[Welcome to Shiloh Creek — a quirky nature reserve where Old Timber, a wise old elephant elder, tells stories from the lives of the animals who live there. Bongo the klutzy bear cub, Zippy the hyperactive hummingbird, Shelly the dry-witted tortoise, Mango the dramatic parrot, Fern the shy fawn, and a chorus of comic frogs called the Mudpuppies all share their adventures, their mistakes, and what they learn from each other. Every story carries a timeless principle from the Bible — never as a lecture, always as part of the story. For kids ages 4-12. Stories of kindness, courage, honesty, patience, and friendship.]]></description>
+    <itunes:summary>Welcome to Shiloh Creek — a quirky nature reserve where Old Timber, a wise old elephant elder, tells stories from the lives of the animals who live there. Bongo the klutzy bear cub, Zippy the hyperactive hummingbird, Shelly the dry-witted tortoise, Mango the dramatic parrot, Fern the shy fawn, and a chorus of comic frogs called the Mudpuppies all share their adventures, their mistakes, and what they learn from each other. Every story carries a timeless principle from the Bible — never as a lecture, always as part of the story. For kids ages 4-12. Stories of kindness, courage, honesty, patience, and friendship.</itunes:summary>
+    <itunes:subtitle>Comedy-driven kid stories with timeless biblical wisdom — told by Old Timber the elephant elder, pondside.</itunes:subtitle>
+    <itunes:author>Shiloh Creek</itunes:author>
+    <itunes:owner>
+      <itunes:name>Shiloh Creek</itunes:name>
+      <itunes:email>ttropolis@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://shpodfeed.fablepeak.com/cover-art/series-cover.jpg"/>
+    <itunes:category text="Kids &amp; Family">
+      <itunes:category text="Stories for Kids"/>
+    </itunes:category>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:keywords>kids,family,stories,bible,kindness,courage,honesty,bedtime,animals,podcast</itunes:keywords>
+    <podcast:guid>bff7d3a9-31bd-5e2f-b9ec-3a5d2c1c80a4</podcast:guid>
+    <podcast:locked owner="ttropolis@gmail.com">yes</podcast:locked>
+    <pubDate>Thu, 04 Jun 2026 01:46:33 +0000</pubDate>
+    <lastBuildDate>Thu, 04 Jun 2026 01:46:33 +0000</lastBuildDate>
+    <item>
+      <title>Welcome to Shiloh Creek</title>
+      <itunes:title>Welcome to Shiloh Creek</itunes:title>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description><![CDATA[Old Timber pulls up by the pond and gathers the friends — and the listener — for the very first story. A shy fawn named Fern arrives in Shiloh Creek for the first time. The animals rush to welcome her — except Shelly the tortoise, who knows that the kindest welcome is sometimes the quietest one. The Bible has a line about loving your neighbour. Fern reminds us how today.]]></description>
+      <itunes:summary>Old Timber pulls up by the pond and gathers the friends — and the listener — for the very first story. A shy fawn named Fern arrives in Shiloh Creek for the first time. The animals rush to welcome her — except Shelly the tortoise, who knows that the kindest welcome is sometimes the quietest one. The Bible has a line about loving your neighbour. Fern reminds us how today.</itunes:summary>
+      <itunes:subtitle>Old Timber pulls up by the pond and gathers the friends — and the listener — for the very first story. A shy fawn named Fern arrives in Shiloh Creek for the first time. The animals rush to welcome her</itunes:subtitle>
+      <itunes:duration>00:18:32</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>kindness,welcome,strangers,neighbour,bible,kids</itunes:keywords>
+      <itunes:image href="https://shpodfeed.fablepeak.com/cover-art/series-cover.jpg"/>
+      <enclosure url="https://op3.dev/e/shpodfeed.fablepeak.com/audio/s01e01-welcome-to-shiloh-creek.mp3" length="17818770" type="audio/mpeg"/>
+      <guid isPermaLink="false">shiloh-creek-s01e01</guid>
+      <pubDate>Thu, 04 Jun 2026 01:46:34 +0000</pubDate>
+      <podcast:transcript url="https://shpodfeed.fablepeak.com/transcripts/s01e01.vtt" type="text/vtt" language="en"/>
+    </item>
+    <item>
+      <title>The Moonflower</title>
+      <itunes:title>The Moonflower</itunes:title>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description><![CDATA[The night Bongo tried to make the moon hurry up. Fern's first moonflower is about to bloom — but only when the moon decides it's ready. Bongo doesn't want to wait. The Mudpuppies don't want to wait. Even Professor Hoot has theories. Only Fern, quiet by the bud, gets to see the first bloom — and what she learns about being still, the Bible knew first.]]></description>
+      <itunes:summary>The night Bongo tried to make the moon hurry up. Fern's first moonflower is about to bloom — but only when the moon decides it's ready. Bongo doesn't want to wait. The Mudpuppies don't want to wait. Even Professor Hoot has theories. Only Fern, quiet by the bud, gets to see the first bloom — and what she learns about being still, the Bible knew first.</itunes:summary>
+      <itunes:subtitle>The night Bongo tried to make the moon hurry up. Fern's first moonflower is about to bloom — but only when the moon decides it's ready. Bongo doesn't want to wait. The Mudpuppies don't want to wait. E</itunes:subtitle>
+      <itunes:duration>00:18:14</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>patience,waiting,nature,bible,psalm,kids,bedtime</itunes:keywords>
+      <itunes:image href="https://shpodfeed.fablepeak.com/cover-art/series-cover.jpg"/>
+      <enclosure url="https://op3.dev/e/shpodfeed.fablepeak.com/audio/s01e02-the-moonflower.mp3" length="17523576" type="audio/mpeg"/>
+      <guid isPermaLink="false">shiloh-creek-s01e02</guid>
+      <pubDate>Thu, 04 Jun 2026 01:46:34 +0000</pubDate>
+      <podcast:transcript url="https://shpodfeed.fablepeak.com/transcripts/s01e02.vtt" type="text/vtt" language="en"/>
+    </item>
+    <item>
+      <title>The Wind Did It</title>
+      <itunes:title>The Wind Did It</itunes:title>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description><![CDATA[The morning Garingo the parrot blamed the wind for something the wind did not do. Shelly's favourite rock has split in half. Garingo invents the most theatrical lie in the history of Shiloh Creek — a small, local, highly local, undocumented wind. The listener sees the whole thing happen. Garingo learns that the truth needs only one short sentence — and the lie needs many. The Bible has a line about that too.]]></description>
+      <itunes:summary>The morning Garingo the parrot blamed the wind for something the wind did not do. Shelly's favourite rock has split in half. Garingo invents the most theatrical lie in the history of Shiloh Creek — a small, local, highly local, undocumented wind. The listener sees the whole thing happen. Garingo learns that the truth needs only one short sentence — and the lie needs many. The Bible has a line about that too.</itunes:summary>
+      <itunes:subtitle>The morning Garingo the parrot blamed the wind for something the wind did not do. Shelly's favourite rock has split in half. Garingo invents the most theatrical lie in the history of Shiloh Creek — a </itunes:subtitle>
+      <itunes:duration>00:17:14</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>honesty,truth,bible,john8,kids,courage</itunes:keywords>
+      <itunes:image href="https://shpodfeed.fablepeak.com/cover-art/series-cover.jpg"/>
+      <enclosure url="https://op3.dev/e/shpodfeed.fablepeak.com/audio/s01e03-the-wind-did-it.mp3" length="16570225" type="audio/mpeg"/>
+      <guid isPermaLink="false">shiloh-creek-s01e03</guid>
+      <pubDate>Thu, 04 Jun 2026 01:46:34 +0000</pubDate>
+      <podcast:transcript url="https://shpodfeed.fablepeak.com/transcripts/s01e03.vtt" type="text/vtt" language="en"/>
+    </item>
+    <item>
+      <title>Storm at Shiloh Creek</title>
+      <itunes:title>Storm at Shiloh Creek</itunes:title>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>4</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description><![CDATA[A storm rolls into Shiloh Creek and the friends scatter in panic. Bongo wants to fix the sky. Zippy has seven ideas. Garingo announces the wind has feelings. Only Fern — the shyest of them all — quietly remembers the way to a safe lookout. The dear thing who used to say nothing finds she has the words to lead. The Bible has an old line about being brave — and Joshua, who was scared, and led his friends anyway.]]></description>
+      <itunes:summary>A storm rolls into Shiloh Creek and the friends scatter in panic. Bongo wants to fix the sky. Zippy has seven ideas. Garingo announces the wind has feelings. Only Fern — the shyest of them all — quietly remembers the way to a safe lookout. The dear thing who used to say nothing finds she has the words to lead. The Bible has an old line about being brave — and Joshua, who was scared, and led his friends anyway.</itunes:summary>
+      <itunes:subtitle>A storm rolls into Shiloh Creek and the friends scatter in panic. Bongo wants to fix the sky. Zippy has seven ideas. Garingo announces the wind has feelings. Only Fern — the shyest of them all — quiet</itunes:subtitle>
+      <itunes:duration>00:17:29</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>courage,brave,bible,joshua,kids,fern</itunes:keywords>
+      <itunes:image href="https://shpodfeed.fablepeak.com/cover-art/series-cover.jpg"/>
+      <enclosure url="https://op3.dev/e/shpodfeed.fablepeak.com/audio/s01e04-storm-at-shiloh-creek.mp3" length="16803887" type="audio/mpeg"/>
+      <guid isPermaLink="false">shiloh-creek-s01e04</guid>
+      <pubDate>Thu, 04 Jun 2026 01:46:34 +0000</pubDate>
+      <podcast:transcript url="https://shpodfeed.fablepeak.com/transcripts/s01e04.vtt" type="text/vtt" language="en"/>
+    </item>
+    <item>
+      <title>The Great Flood</title>
+      <itunes:title>The Great Flood</itunes:title>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>5</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description><![CDATA[The morning Zippy the hummingbird tried to fix the meadow and accidentally made it a lake. The Hydra-Tron Three Thousand was supposed to water everything gently. It did not. Bongo tries to help by digging channels (this makes it worse). Garingo announces the meadow has become a pond. The Mudpuppies are having the best day of their lives. Zippy is devastated. And the friends — slowly, one by one — find their way to forgive her. The Bible has a line about forgiving someone seventy times seven, which is just a way of saying don't keep score.]]></description>
+      <itunes:summary>The morning Zippy the hummingbird tried to fix the meadow and accidentally made it a lake. The Hydra-Tron Three Thousand was supposed to water everything gently. It did not. Bongo tries to help by digging channels (this makes it worse). Garingo announces the meadow has become a pond. The Mudpuppies are having the best day of their lives. Zippy is devastated. And the friends — slowly, one by one — find their way to forgive her. The Bible has a line about forgiving someone seventy times seven, which is just a way of saying don't keep score.</itunes:summary>
+      <itunes:subtitle>The morning Zippy the hummingbird tried to fix the meadow and accidentally made it a lake. The Hydra-Tron Three Thousand was supposed to water everything gently. It did not. Bongo tries to help by dig</itunes:subtitle>
+      <itunes:duration>00:20:22</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>forgiveness,bible,matthew,kids,zippy</itunes:keywords>
+      <itunes:image href="https://shpodfeed.fablepeak.com/cover-art/series-cover.jpg"/>
+      <enclosure url="https://op3.dev/e/shpodfeed.fablepeak.com/audio/s01e05-the-great-flood.mp3" length="19570799" type="audio/mpeg"/>
+      <guid isPermaLink="false">shiloh-creek-s01e05</guid>
+      <pubDate>Thu, 04 Jun 2026 01:46:34 +0000</pubDate>
+      <podcast:transcript url="https://shpodfeed.fablepeak.com/transcripts/s01e05.vtt" type="text/vtt" language="en"/>
+    </item>
+    <item>
+      <title>Berry Season</title>
+      <itunes:title>Berry Season</itunes:title>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>6</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description><![CDATA[The harvest is small this year. The friends sit at the patch and count — and there aren't enough berries to go around. Zippy does the math. Garingo announces a stress. Shelly arrives with one berry. And Old Timber visits — and reminds the friends, gently, of someone who isn't even at the patch. The Mudpuppies. Jesus once told his friends something about giving — that when you give freely, without counting, the joy comes back full. For kids ages 4-12. Stories of generosity from the lives of Old Timber and the friends at Shiloh Creek.]]></description>
+      <itunes:summary>The harvest is small this year. The friends sit at the patch and count — and there aren't enough berries to go around. Zippy does the math. Garingo announces a stress. Shelly arrives with one berry. And Old Timber visits — and reminds the friends, gently, of someone who isn't even at the patch. The Mudpuppies. Jesus once told his friends something about giving — that when you give freely, without counting, the joy comes back full. For kids ages 4-12. Stories of generosity from the lives of Old Timber and the friends at Shiloh Creek.</itunes:summary>
+      <itunes:subtitle>The harvest is small this year. The friends sit at the patch and count — and there aren't enough berries to go around. Zippy does the math. Garingo announces a stress. Shelly arrives with one berry. A</itunes:subtitle>
+      <itunes:duration>00:20:15</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>generosity,sharing,bible,luke,kids,jesus</itunes:keywords>
+      <itunes:image href="https://shpodfeed.fablepeak.com/cover-art/series-cover.jpg"/>
+      <enclosure url="https://op3.dev/e/shpodfeed.fablepeak.com/audio/s01e06-berry-season.mp3" length="19460903" type="audio/mpeg"/>
+      <guid isPermaLink="false">shiloh-creek-s01e06</guid>
+      <pubDate>Thu, 04 Jun 2026 01:46:34 +0000</pubDate>
+      <podcast:transcript url="https://shpodfeed.fablepeak.com/transcripts/s01e06.vtt" type="text/vtt" language="en"/>
+    </item>
+    <item>
+      <title>The Path Through</title>
+      <itunes:title>The Path Through</itunes:title>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>7</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description><![CDATA[Bongo the bear cub has a plan — and a leaf-map. He's leading his friends to the old barn for the late-summer gathering. But a storm in the night has shifted a big branch across the path, and the way Bongo drew on his leaf-map isn't there anymore. King Solomon once wrote in the Bible — trust in the Lord, lean not unto thine own understanding. Bongo learns what it means to stop pretending to know the way, and let the Lord show him a path he could never have drawn himself. For kids ages 4-12. Stories of trust and quiet wisdom from Old Timber and the friends at Shiloh Creek.]]></description>
+      <itunes:summary>Bongo the bear cub has a plan — and a leaf-map. He's leading his friends to the old barn for the late-summer gathering. But a storm in the night has shifted a big branch across the path, and the way Bongo drew on his leaf-map isn't there anymore. King Solomon once wrote in the Bible — trust in the Lord, lean not unto thine own understanding. Bongo learns what it means to stop pretending to know the way, and let the Lord show him a path he could never have drawn himself. For kids ages 4-12. Stories of trust and quiet wisdom from Old Timber and the friends at Shiloh Creek.</itunes:summary>
+      <itunes:subtitle>Bongo the bear cub has a plan — and a leaf-map. He's leading his friends to the old barn for the late-summer gathering. But a storm in the night has shifted a big branch across the path, and the way B</itunes:subtitle>
+      <itunes:duration>00:20:39</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>trust,bible,proverbs,kids,solomon,quiet-wisdom</itunes:keywords>
+      <itunes:image href="https://shpodfeed.fablepeak.com/cover-art/series-cover.jpg"/>
+      <enclosure url="https://op3.dev/e/shpodfeed.fablepeak.com/audio/s01e07-the-path-through.mp3" length="19840093" type="audio/mpeg"/>
+      <guid isPermaLink="false">shiloh-creek-s01e07</guid>
+      <pubDate>Thu, 04 Jun 2026 01:46:34 +0000</pubDate>
+      <podcast:transcript url="https://shpodfeed.fablepeak.com/transcripts/s01e07.vtt" type="text/vtt" language="en"/>
+    </item>
+    <item>
+      <title>Best Rainy Day Ever</title>
+      <itunes:title>Best Rainy Day Ever</itunes:title>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>8</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description><![CDATA[Shelly leads a rainy-day adventure when the planned swim is cancelled. Worms emerge, a frog sings under a leaf, leaves drink. The friends learn what it means to give thanks in the day you got — not the day you wanted. Anchored in the Apostle Paul's letter to the Thessalonians — in every thing give thanks. For kids ages 4-12. Stories of gratitude and quiet noticing from Old Timber and the friends at Shiloh Creek.]]></description>
+      <itunes:summary>Shelly leads a rainy-day adventure when the planned swim is cancelled. Worms emerge, a frog sings under a leaf, leaves drink. The friends learn what it means to give thanks in the day you got — not the day you wanted. Anchored in the Apostle Paul's letter to the Thessalonians — in every thing give thanks. For kids ages 4-12. Stories of gratitude and quiet noticing from Old Timber and the friends at Shiloh Creek.</itunes:summary>
+      <itunes:subtitle>Shelly leads a rainy-day adventure when the planned swim is cancelled. Worms emerge, a frog sings under a leaf, leaves drink. The friends learn what it means to give thanks in the day you got — not th</itunes:subtitle>
+      <itunes:duration>00:19:04</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>gratitude,bible,thessalonians,kids,paul,quiet-adventure</itunes:keywords>
+      <itunes:image href="https://shpodfeed.fablepeak.com/cover-art/series-cover.jpg"/>
+      <enclosure url="https://op3.dev/e/shpodfeed.fablepeak.com/audio/s01e08-best-rainy-day-ever.mp3" length="18334117" type="audio/mpeg"/>
+      <guid isPermaLink="false">shiloh-creek-s01e08</guid>
+      <pubDate>Thu, 04 Jun 2026 01:46:34 +0000</pubDate>
+      <podcast:transcript url="https://shpodfeed.fablepeak.com/transcripts/s01e08.vtt" type="text/vtt" language="en"/>
+    </item>
+    <item>
+      <title>The Bridge</title>
+      <itunes:title>The Bridge</itunes:title>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>9</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description><![CDATA[Bongo the bear cub is sure he can lift the fallen log across the path by himself. He's strong. He's a bear. Bears lift logs. But the log won't move — and his friends are waiting. Anchored in Ecclesiastes chapter four, verse nine — two are better than one. King Solomon's old wisdom lived out in a bear cub learning to ask for help BEFORE he lifts. For kids ages 4-12. Stories of teamwork and quiet wisdom from Old Timber and the friends at Shiloh Creek.]]></description>
+      <itunes:summary>Bongo the bear cub is sure he can lift the fallen log across the path by himself. He's strong. He's a bear. Bears lift logs. But the log won't move — and his friends are waiting. Anchored in Ecclesiastes chapter four, verse nine — two are better than one. King Solomon's old wisdom lived out in a bear cub learning to ask for help BEFORE he lifts. For kids ages 4-12. Stories of teamwork and quiet wisdom from Old Timber and the friends at Shiloh Creek.</itunes:summary>
+      <itunes:subtitle>Bongo the bear cub is sure he can lift the fallen log across the path by himself. He's strong. He's a bear. Bears lift logs. But the log won't move — and his friends are waiting. Anchored in Ecclesias</itunes:subtitle>
+      <itunes:duration>00:20:54</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>teamwork,bible,ecclesiastes,kids,solomon,asking-for-help</itunes:keywords>
+      <itunes:image href="https://shpodfeed.fablepeak.com/cover-art/series-cover.jpg"/>
+      <enclosure url="https://op3.dev/e/shpodfeed.fablepeak.com/audio/s01e09-the-bridge.mp3" length="20090455" type="audio/mpeg"/>
+      <guid isPermaLink="false">shiloh-creek-s01e09</guid>
+      <pubDate>Thu, 04 Jun 2026 01:46:34 +0000</pubDate>
+      <podcast:transcript url="https://shpodfeed.fablepeak.com/transcripts/s01e09.vtt" type="text/vtt" language="en"/>
+    </item>
+    <item>
+      <title>The Visitor</title>
+      <itunes:title>The Visitor</itunes:title>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>10</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description><![CDATA[The story of the morning a small fast-chittering chipmunk showed up at the meadow with what sounded like a very grievous complaint — and how Garingo the parrot tried something he had never tried before. A soft answer. Anchored in Proverbs chapter fifteen, verse one — a soft answer turneth away wrath: but grievous words stir up anger. King Solomon's old wisdom lived out in a theatrical parrot learning that the loud thing in his throat is not always the truest one. For kids ages 4-12. Stories of self-control and de-escalation from Old Timber and the friends at Shiloh Creek.]]></description>
+      <itunes:summary>The story of the morning a small fast-chittering chipmunk showed up at the meadow with what sounded like a very grievous complaint — and how Garingo the parrot tried something he had never tried before. A soft answer. Anchored in Proverbs chapter fifteen, verse one — a soft answer turneth away wrath: but grievous words stir up anger. King Solomon's old wisdom lived out in a theatrical parrot learning that the loud thing in his throat is not always the truest one. For kids ages 4-12. Stories of self-control and de-escalation from Old Timber and the friends at Shiloh Creek.</itunes:summary>
+      <itunes:subtitle>The story of the morning a small fast-chittering chipmunk showed up at the meadow with what sounded like a very grievous complaint — and how Garingo the parrot tried something he had never tried befor</itunes:subtitle>
+      <itunes:duration>00:21:26</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>self-control,soft-answer,bible,proverbs,kids,solomon,de-escalation,empathy,garingo,chitter</itunes:keywords>
+      <itunes:image href="https://shpodfeed.fablepeak.com/cover-art/series-cover.jpg"/>
+      <enclosure url="https://op3.dev/e/shpodfeed.fablepeak.com/audio/s01e10-the-visitor.mp3" length="20600902" type="audio/mpeg"/>
+      <guid isPermaLink="false">shiloh-creek-s01e10</guid>
+      <pubDate>Thu, 04 Jun 2026 01:46:34 +0000</pubDate>
+      <podcast:transcript url="https://shpodfeed.fablepeak.com/transcripts/s01e10.vtt" type="text/vtt" language="en"/>
+    </item>
+    <item>
+      <title>Shiloh Creek Olympics</title>
+      <itunes:title>Shiloh Creek Olympics</itunes:title>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>11</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description><![CDATA[The morning Shelly the tortoise crossed her first threshold — saying yes to her first race. Bongo bounds. Zippy zips. Garingo flies low and theatrical. Shelly walks. Slowly. Each step is HER race — against the part of her that wants to quit. And when the meadow goes quiet from misplaced kindness, the verse Old Timber whispered to her at dawn comes back, in her own voice, and she keeps walking. Anchored in Paul's letter to the Hebrews, chapter twelve, verse one — the cloud of witnesses and the race that is set before us. For kids ages 4-12. Stories of perseverance and the quiet courage of starting from Old Timber and the friends at Shiloh Creek.]]></description>
+      <itunes:summary>The morning Shelly the tortoise crossed her first threshold — saying yes to her first race. Bongo bounds. Zippy zips. Garingo flies low and theatrical. Shelly walks. Slowly. Each step is HER race — against the part of her that wants to quit. And when the meadow goes quiet from misplaced kindness, the verse Old Timber whispered to her at dawn comes back, in her own voice, and she keeps walking. Anchored in Paul's letter to the Hebrews, chapter twelve, verse one — the cloud of witnesses and the race that is set before us. For kids ages 4-12. Stories of perseverance and the quiet courage of starting from Old Timber and the friends at Shiloh Creek.</itunes:summary>
+      <itunes:subtitle>The morning Shelly the tortoise crossed her first threshold — saying yes to her first race. Bongo bounds. Zippy zips. Garingo flies low and theatrical. Shelly walks. Slowly. Each step is HER race — ag</itunes:subtitle>
+      <itunes:duration>00:20:54</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>perseverance,threshold,bible,hebrews,kids,paul,shelly,first-race,quiet-courage,starting</itunes:keywords>
+      <itunes:image href="https://shpodfeed.fablepeak.com/cover-art/series-cover.jpg"/>
+      <enclosure url="https://op3.dev/e/shpodfeed.fablepeak.com/audio/s01e11-shiloh-creek-olympics.mp3" length="20081747" type="audio/mpeg"/>
+      <guid isPermaLink="false">shiloh-creek-s01e11</guid>
+      <pubDate>Thu, 04 Jun 2026 01:46:34 +0000</pubDate>
+      <podcast:transcript url="https://shpodfeed.fablepeak.com/transcripts/s01e11.vtt" type="text/vtt" language="en"/>
+    </item>
+    <item>
+      <title>The Surprise</title>
+      <itunes:title>The Surprise</itunes:title>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>12</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description><![CDATA[Season 1 finale. The friends plan a quiet surprise for Ranger Ray, who has been gone on his ranger circuit. Fern leads — her seed-of-anxious-debut now arc-paid-off as confident orchestrator. Each prep-detail weaves a memory from a prior episode: lanterns from a flood, berries from a recovered patch, the hidden path from a storm, Shelly's slow procession, Chitter returning welcome. When Ranger Ray arrives, he names the small kind things he saw all season — love that remembers, love that doesn't parade. Anchored in Paul's letter to the Corinthians, chapter thirteen, verse four — charity suffereth long, and is kind. For kids ages 4-12. The Season 1 closing story from Old Timber and the friends at Shiloh Creek.]]></description>
+      <itunes:summary>Season 1 finale. The friends plan a quiet surprise for Ranger Ray, who has been gone on his ranger circuit. Fern leads — her seed-of-anxious-debut now arc-paid-off as confident orchestrator. Each prep-detail weaves a memory from a prior episode: lanterns from a flood, berries from a recovered patch, the hidden path from a storm, Shelly's slow procession, Chitter returning welcome. When Ranger Ray arrives, he names the small kind things he saw all season — love that remembers, love that doesn't parade. Anchored in Paul's letter to the Corinthians, chapter thirteen, verse four — charity suffereth long, and is kind. For kids ages 4-12. The Season 1 closing story from Old Timber and the friends at Shiloh Creek.</itunes:summary>
+      <itunes:subtitle>Season 1 finale. The friends plan a quiet surprise for Ranger Ray, who has been gone on his ranger circuit. Fern leads — her seed-of-anxious-debut now arc-paid-off as confident orchestrator. Each prep</itunes:subtitle>
+      <itunes:duration>00:19:49</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>charity,love,bible,corinthians,kids,paul,fern,ranger-ray,finale,callback,season-close</itunes:keywords>
+      <itunes:image href="https://shpodfeed.fablepeak.com/cover-art/series-cover.jpg"/>
+      <enclosure url="https://op3.dev/e/shpodfeed.fablepeak.com/audio/s01e12-the-surprise.mp3" length="19047435" type="audio/mpeg"/>
+      <guid isPermaLink="false">shiloh-creek-s01e12</guid>
+      <pubDate>Thu, 04 Jun 2026 01:46:34 +0000</pubDate>
+      <podcast:transcript url="https://shpodfeed.fablepeak.com/transcripts/s01e12.vtt" type="text/vtt" language="en"/>
+    </item>
+    <item>
+      <title>The Smartest Animal Contest</title>
+      <itunes:title>The Smartest Animal Contest</itunes:title>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description><![CDATA[Season 2 begins. Professor Hoot announces a contest to settle, once and for all, who is the smartest animal in Shiloh Creek — and fully expects to win it himself. But the day the quietest, smallest friend helps without being asked, Hoot learns that being the smartest isn't the same as being right. The last become first. Anchored in a line Jesus told his friends — the last shall be first, and the first last. For kids ages 4-12. A new season of stories from Old Timber and the friends at Shiloh Creek.]]></description>
+      <itunes:summary>Season 2 begins. Professor Hoot announces a contest to settle, once and for all, who is the smartest animal in Shiloh Creek — and fully expects to win it himself. But the day the quietest, smallest friend helps without being asked, Hoot learns that being the smartest isn't the same as being right. The last become first. Anchored in a line Jesus told his friends — the last shall be first, and the first last. For kids ages 4-12. A new season of stories from Old Timber and the friends at Shiloh Creek.</itunes:summary>
+      <itunes:subtitle>Season 2 begins. Professor Hoot announces a contest to settle, once and for all, who is the smartest animal in Shiloh Creek — and fully expects to win it himself. But the day the quietest, smallest fr</itunes:subtitle>
+      <itunes:duration>00:18:41</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>humility,pride,bible,jesus,matthew,kids,professor-hoot,fern,contest,season-2-opener</itunes:keywords>
+      <itunes:image href="https://shpodfeed.fablepeak.com/cover-art/series-cover.jpg"/>
+      <enclosure url="https://op3.dev/e/shpodfeed.fablepeak.com/audio/s02e01-the-smartest-animal-contest.mp3" length="17964153" type="audio/mpeg"/>
+      <guid isPermaLink="false">shiloh-creek-s02e01</guid>
+      <pubDate>Thu, 04 Jun 2026 01:46:34 +0000</pubDate>
+      <podcast:transcript url="https://shpodfeed.fablepeak.com/transcripts/s02e01.vtt" type="text/vtt" language="en"/>
+    </item>
+    <item>
+      <title>The Old Grudge</title>
+      <itunes:title>The Old Grudge</itunes:title>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description><![CDATA[An old falling-out between Garingo the parrot and Shelly the tortoise — quiet for a long time — finally surfaces. The friends already learned to forgive once. But what about the SAME hurt, coming back again? With a little help from Old Timber and a fact about penguins who take turns at the cold edge of the huddle, Garingo and Shelly learn that forgiveness isn't one big moment — it's a thing you practise, and it's allowed to be hard the second time. Paul once wrote to his friends in Colossae: bear with one another, and forgive. For kids ages 4-12.]]></description>
+      <itunes:summary>An old falling-out between Garingo the parrot and Shelly the tortoise — quiet for a long time — finally surfaces. The friends already learned to forgive once. But what about the SAME hurt, coming back again? With a little help from Old Timber and a fact about penguins who take turns at the cold edge of the huddle, Garingo and Shelly learn that forgiveness isn't one big moment — it's a thing you practise, and it's allowed to be hard the second time. Paul once wrote to his friends in Colossae: bear with one another, and forgive. For kids ages 4-12.</itunes:summary>
+      <itunes:subtitle>An old falling-out between Garingo the parrot and Shelly the tortoise — quiet for a long time — finally surfaces. The friends already learned to forgive once. But what about the SAME hurt, coming back</itunes:subtitle>
+      <itunes:duration>00:16:49</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>forgiveness,bible,colossians,paul,kids,garingo,shelly</itunes:keywords>
+      <itunes:image href="https://shpodfeed.fablepeak.com/cover-art/series-cover.jpg"/>
+      <enclosure url="https://op3.dev/e/shpodfeed.fablepeak.com/audio/s02e02-the-old-grudge.mp3" length="16159990" type="audio/mpeg"/>
+      <guid isPermaLink="false">shiloh-creek-s02e02</guid>
+      <pubDate>Thu, 04 Jun 2026 01:46:34 +0000</pubDate>
+      <podcast:transcript url="https://shpodfeed.fablepeak.com/transcripts/s02e02.vtt" type="text/vtt" language="en"/>
+    </item>
+    <item>
+      <title>The Long Friend</title>
+      <itunes:title>The Long Friend</itunes:title>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description><![CDATA[Old Timber needs the spare lantern from the big old barn before the light goes — and the only two friends at the pond are Bongo, who is all hurry, and Shelly, who is all wait. Zippy, Fern, and Garingo wave the mismatched pair off; then it's just the quick one and the slow one, together, on a small quest down the winding path. About a bear cub who keeps charging ahead and a tortoise who keeps being right about the slow way round; about a mud-slick where Bongo's speed is exactly wrong and Shelly's care is exactly right, and a fallen reed-gate where Shelly's pace is exactly wrong and Bongo's strong arms are exactly right; about the plain hurt of feeling too-slow and too-much, said out loud at last; about great grey elephants who remember an old friend across many, many years and call out a special hello when they meet again. The friends come home, the others welcome them back, and Old Timber asks the two of them what they learned — then lands the lesson, and at the very end shares the line a wise king named Solomon wrote down about a friend who loves at all times. With Professor Hoot's Totally True Facts on the V-formation of geese — the most well-mannered traffic in the sky — and a Mudpuppy Minutes that gets friendship gloriously, confidently wrong.]]></description>
+      <itunes:summary>Old Timber needs the spare lantern from the big old barn before the light goes — and the only two friends at the pond are Bongo, who is all hurry, and Shelly, who is all wait. Zippy, Fern, and Garingo wave the mismatched pair off; then it's just the quick one and the slow one, together, on a small quest down the winding path. About a bear cub who keeps charging ahead and a tortoise who keeps being right about the slow way round; about a mud-slick where Bongo's speed is exactly wrong and Shelly's care is exactly right, and a fallen reed-gate where Shelly's pace is exactly wrong and Bongo's strong arms are exactly right; about the plain hurt of feeling too-slow and too-much, said out loud at last; about great grey elephants who remember an old friend across many, many years and call out a special hello when they meet again. The friends come home, the others welcome them back, and Old Timber asks the two of them what they learned — then lands the lesson, and at the very end shares the line a wise king named Solomon wrote down about a friend who loves at all times. With Professor Hoot's Totally True Facts on the V-formation of geese — the most well-mannered traffic in the sky — and a Mudpuppy Minutes that gets friendship gloriously, confidently wrong.</itunes:summary>
+      <itunes:subtitle>Old Timber needs the spare lantern from the big old barn before the light goes — and the only two friends at the pond are Bongo, who is all hurry, and Shelly, who is all wait. Zippy, Fern, and Garingo</itunes:subtitle>
+      <itunes:duration>00:20:48</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>friendship,bible,proverbs,solomon,kids,bongo,shelly,patience,teamwork</itunes:keywords>
+      <itunes:image href="https://shpodfeed.fablepeak.com/cover-art/series-cover.jpg"/>
+      <enclosure url="https://op3.dev/e/shpodfeed.fablepeak.com/audio/s02e03-the-long-friend.mp3" length="19986299" type="audio/mpeg"/>
+      <guid isPermaLink="false">shiloh-creek-s02e03</guid>
+      <pubDate>Thu, 04 Jun 2026 01:46:34 +0000</pubDate>
+      <podcast:transcript url="https://shpodfeed.fablepeak.com/transcripts/s02e03.vtt" type="text/vtt" language="en"/>
+    </item>
+    <item>
+      <title>The New One</title>
+      <itunes:title>The New One</itunes:title>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>4</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description><![CDATA[A traveller from the high dry country comes to the creek with a quiet, unhurried way of saying hello — and fast little Zippy zips right past her. But when the friends climb up to the cold thin air of the high country, it is Zippy who is suddenly the new one, rushed-past and left behind — and she learns, from the inside, what she did that morning. A visitor-welcome story about the Golden Rule, lived. Anchored in a line a teacher named Jesus taught, written down in the Bible — and as ye would that men should do to you, do ye also to them likewise. For kids ages 4-12. Stories of kindness and empathy from Old Timber and the friends at Shiloh Creek.]]></description>
+      <itunes:summary>A traveller from the high dry country comes to the creek with a quiet, unhurried way of saying hello — and fast little Zippy zips right past her. But when the friends climb up to the cold thin air of the high country, it is Zippy who is suddenly the new one, rushed-past and left behind — and she learns, from the inside, what she did that morning. A visitor-welcome story about the Golden Rule, lived. Anchored in a line a teacher named Jesus taught, written down in the Bible — and as ye would that men should do to you, do ye also to them likewise. For kids ages 4-12. Stories of kindness and empathy from Old Timber and the friends at Shiloh Creek.</itunes:summary>
+      <itunes:subtitle>A traveller from the high dry country comes to the creek with a quiet, unhurried way of saying hello — and fast little Zippy zips right past her. But when the friends climb up to the cold thin air of </itunes:subtitle>
+      <itunes:duration>00:20:33</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>golden-rule,kindness,empathy,bible,luke,jesus,kids,zippy,quilla,welcome,newcomer</itunes:keywords>
+      <itunes:image href="https://shpodfeed.fablepeak.com/cover-art/series-cover.jpg"/>
+      <enclosure url="https://op3.dev/e/shpodfeed.fablepeak.com/audio/s02e04-the-new-one.mp3" length="19745870" type="audio/mpeg"/>
+      <guid isPermaLink="false">shiloh-creek-s02e04</guid>
+      <pubDate>Thu, 04 Jun 2026 01:46:35 +0000</pubDate>
+      <podcast:transcript url="https://shpodfeed.fablepeak.com/transcripts/s02e04.vtt" type="text/vtt" language="en"/>
+    </item>
+    <item>
+      <title>The Little Voice</title>
+      <itunes:title>The Little Voice</itunes:title>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>5</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description><![CDATA[Fern hears something nobody else does — a tiny cricket, hidden under the very reeds the friends are about to clear for a big building project. The cricket can't talk; it can only chirp. Fern noticed it, but she is too shy to speak up while Bongo, Garingo, and Zippy boom ahead with the plan. As the work rushes toward the cricket's hiding place, Fern has to choose: stay quiet and safe, or open her mouth for the one small voice that can't speak for itself. A first-solo-lead courage-of-conscience story about being an upstander, not a bystander — using your voice for someone who can't use theirs. Anchored in a line a mother once taught her son, who grew up to be a king, written down in the Bible to this day: open your mouth for the mute, in the cause of all who are left desolate. With Professor Hoot's Totally True Facts on the meerkat sentinel — the one small lookout who calls out for the whole family — and a Mudpuppy Minutes that explains, gloriously and confidently wrong, why crickets chirp at night. For kids ages 4-12. Stories of courage and kindness from Old Timber and the friends at Shiloh Creek.]]></description>
+      <itunes:summary>Fern hears something nobody else does — a tiny cricket, hidden under the very reeds the friends are about to clear for a big building project. The cricket can't talk; it can only chirp. Fern noticed it, but she is too shy to speak up while Bongo, Garingo, and Zippy boom ahead with the plan. As the work rushes toward the cricket's hiding place, Fern has to choose: stay quiet and safe, or open her mouth for the one small voice that can't speak for itself. A first-solo-lead courage-of-conscience story about being an upstander, not a bystander — using your voice for someone who can't use theirs. Anchored in a line a mother once taught her son, who grew up to be a king, written down in the Bible to this day: open your mouth for the mute, in the cause of all who are left desolate. With Professor Hoot's Totally True Facts on the meerkat sentinel — the one small lookout who calls out for the whole family — and a Mudpuppy Minutes that explains, gloriously and confidently wrong, why crickets chirp at night. For kids ages 4-12. Stories of courage and kindness from Old Timber and the friends at Shiloh Creek.</itunes:summary>
+      <itunes:subtitle>Fern hears something nobody else does — a tiny cricket, hidden under the very reeds the friends are about to clear for a big building project. The cricket can't talk; it can only chirp. Fern noticed i</itunes:subtitle>
+      <itunes:duration>00:20:53</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>courage,upstander,speak-up,bible,proverbs,king-lemuel,kids,fern,cricket,conscience,kindness</itunes:keywords>
+      <itunes:image href="https://shpodfeed.fablepeak.com/cover-art/series-cover.jpg"/>
+      <enclosure url="https://op3.dev/e/shpodfeed.fablepeak.com/audio/s02e05-the-little-voice.mp3" length="20066287" type="audio/mpeg"/>
+      <guid isPermaLink="false">shiloh-creek-s02e05</guid>
+      <pubDate>Thu, 04 Jun 2026 01:46:35 +0000</pubDate>
+      <podcast:transcript url="https://shpodfeed.fablepeak.com/transcripts/s02e05.vtt" type="text/vtt" language="en"/>
+    </item>
+  </channel>
+</rss>
